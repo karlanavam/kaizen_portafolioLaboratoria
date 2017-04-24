@@ -58,13 +58,46 @@ h1{
 
 .contenedorImagenes{
   position: relative;
+  background-color: #FFF;
+  display: block;
+  width: 100%;
+  height: 520px;
+  margin-top: 10px;
 }
-
 .cuadradoImagen{
-  width: 500px;
+  width: 90%;
   height: 550px;
   border-style: solid;
   border-color: #000;
   display:inline-block;
   position:absolute;
+}
+.cuadro1{
+  display: inline-block;
+  position: relative;
+  float: left;
+  background-color: #FFFF;
+  width: 45%;
+  height: 500px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 10px
+}
+.cuadro2{
+  display: inline-block;
+  float: left;
+  background-color: #FFF;
+  height: 500px;
+  width: 45%;
+  margin-top: 10px;
+}
+img{
+  position: relative;
+  left: 250px
+}
+h2{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+
 }
