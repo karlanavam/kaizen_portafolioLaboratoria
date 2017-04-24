@@ -55,3 +55,16 @@ p {
 h1{
   text-align: center;
 }
+
+.contenedorImagenes{
+  position: relative;
+}
+
+.cuadradoImagen{
+  width: 500px;
+  height: 550px;
+  border-style: solid;
+  border-color: #000;
+  display:inline-block;
+  position:absolute;
+}
