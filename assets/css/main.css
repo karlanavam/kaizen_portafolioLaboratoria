@@ -68,3 +68,9 @@ h1{
   display:inline-block;
   position:absolute;
 }
+.informacionProyecto{
+  text-align:left;
+  font-family: cursive;
+  font-size: 1em;
+  text-decoration-color: #2E2E2E;
+}
